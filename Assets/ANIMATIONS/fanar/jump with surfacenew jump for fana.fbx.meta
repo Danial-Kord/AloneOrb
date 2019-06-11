@@ -1,28 +1,21 @@
 fileFormatVersion: 2
-guid: 244871c9ba7a2c34dad0c96904dd9749
-timeCreated: 1559134153
-licenseType: Pro
+guid: 860269a56f1bbd04ea01b9056a5bbfe7
+timeCreated: 1559553526
+licenseType: Free
 ModelImporter:
   serializedVersion: 21
   fileIDToRecycleName:
     100000: //RootNode
-    100002: pHelix1
-    100004: pHelix2
-    100006: pHelix3
+    100002: pCylinder1
     400000: //RootNode
-    400002: pHelix1
-    400004: pHelix2
-    400006: pHelix3
-    2300000: pHelix1
-    2300002: pHelix2
-    2300004: pHelix3
-    3300000: pHelix1
-    3300002: pHelix2
-    3300004: pHelix3
+    400002: pCylinder1
+    2300000: //RootNode
+    2300002: pCylinder1
+    3300000: //RootNode
+    3300002: pCylinder1
     4300000: pHelix1
-    4300002: pHelix2
-    4300004: pHelix3
-    7400000: jump of fanar
+    4300002: pCylinder1
+    7400000: new jump for fana
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -49,10 +42,10 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: jump of fanar
-      takeName: jump of fanar
+      name: new jump for fana
+      takeName: new jump for fana
       firstFrame: 1
-      lastFrame: 45
+      lastFrame: 25
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -60,7 +53,7 @@ ModelImporter:
       loop: 0
       hasAdditiveReferencePose: 0
       loopTime: 1
-      loopBlend: 0
+      loopBlend: 1
       loopBlendOrientation: 0
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
